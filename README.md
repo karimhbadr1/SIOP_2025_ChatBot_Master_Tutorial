@@ -12,7 +12,7 @@ In this tutorial, we introduce automatic Information Retrieval Q&A Systems (IRQA
 
 ### 01_Slides
 The slides are available in the `01_Slides` folder.
-### 02_Code
-The code is available in the `02_Code` folder.
+### 02_Tutorial
+The code and materials needed to run through the tutorial are available in the `02_Tutorial` folder.
 ### 03_Resources
 Further resources (e.g.: research articles, how-to guides, and useful links and materials) are available in the `03_Resources` folder.
